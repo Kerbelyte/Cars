@@ -22,8 +22,7 @@ DB_PASSWORD='';
 6. Execute comand `php composer.phar install`
 7. Execute comand `php artisan key:generate`
 8. Execute comand `php artisan migrate` to create tables in database;
-10. Execute comand `php artisan serve` and follow the link that is generated;
-11. Open the app in your browser;
+10. Open the app in your browser;
 
 ## Author
 Dovilė [Github](https://github.com/Kerbelyte) , [LinkedIn](https://linkedin.com/in/dovilė-kerbelytė-66634a162)
